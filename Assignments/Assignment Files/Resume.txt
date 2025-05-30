@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <h1>CURRICULUM VITAE</h1>
+    <h2><b>MUHAMMMD SUFYAN</b></h2>
+    <h2>KHURRAM</h2>
+    <p><b>ADDRESS:</b> Kharadar, Karachi <br/><b>CELL:</b> 0336-2083857 <br><b>EMAIL:</b> msufiyan2003@gmail.com <br><b>LINKEDIN:</b> linkedin.com/in/muhammad-s-7a784a204</p>
+    <p>
+        Secure a responsible career opportunity to fully utilize my training and skills,
+        while making a significant contribution to the success of the company.
+    </p>
+    <h3>EDUCATION</h3>
+    <p>
+        <ul>
+            <li>APPEARING <br><b>UNDERGRADUATE,</b> IQRA UNIVERSITY <br>Studying Bachelors in Computer Science starting in February 2022
+            </li>
+        </ul>
+    </p>
+    <p>
+        <ul>
+            <li>NOVEMBER 2021 <br><b>INTERMEDIATE,</b> SINDH MUSLIM GOVERNMENT SCIENCE COLLEGE <br>Pre-Engineering</li>
+        </ul>
+    </p>
+    <p>
+        <ul>
+            <li>APRIL 2019 <br><b>MATRICULATION,</b> K.M.A. BOYS SECONDARY SCHOOL <br>Bio-Science</li>
+        </ul>
+    </p>
+    <h3>SKILLS</h3>
+    <p>
+        <ul>
+            <li>Diploma in English Language</li>
+        </ul>
+    </p>
+    <p>
+        <ul>
+            <li>Diploma in Computer Hardware</li>
+        </ul>
+    </p>
+    <p>
+        <ul>
+            <li>Diploma in Graphics Designing <br>Have good knowledge of adobe creative suits familiarity worked for Adobe Illustrator, Adobe Photoshop, Inpage Urdu software
+            </li>
+        </ul>
+    </p>   <p>
+        <ul>
+            <li>Diploma in Office Automation <br>Windows XP, 7, 8.1, 10, 11, Microsoft Office</li>
+        </ul>
+    </p>
+    <h3>EXPERIENCE</h3>
+    <p>
+        <ul>
+            <li>AUG 2024 – TILL NOW <br>
+                <b>MSK TECHS</b> <br>
+                Founder <br>
+                Deals in Laptops, Mobiles & Gadgets     
+            </li>
+        </ul>
+    </p>
+    <p>
+        <ul>
+            <li>SEP 2021 – TILL NOW <br>
+                <b>HITECH HRMS (PVT.) LTD.</b> <br>
+                Operation | Accounts Manager <br><br>
+                <b>Job Responsibilities:</b>
+                <ul>
+                    <li>Managing Clients (Invoices, Quotations & Ledger).</li>
+                    <li>Bank Reconciliation.</li>                   
+                </ul>
+            </li>
+        </ul>
+    </p>
+    <p>
+        <ul>
+            <li>JUNE 2019 – OCTOBER 2020 <br>
+                <b>ECROWN TECH</b><br>
+                Client Service Provider. <br><br>
+                Job Responsibilities:
+                <ul>
+                    <li>Manage Receivables.</li>
+                    <li>Outdoor Work.</li>
+                    <li>Software Operator.</li>
+                </ul>
+            </li>
+        </ul>
+    </p>
+    <h3>ACTIVITY</h3>
+    <p>
+        <ul>
+            <li>Playing Cricket on Club Level</li>	
+            <li>Listening to Music</li>
+            <li>Playing Indoor & Outdoor games</li>
+        </ul>
+    </p>
+    <h3>PERSONAL DETAILS</h3>
+    <p>
+        <b>Gender:</b>          Male <br>
+        <b>Religion:</b>        Islam <br>
+        <b>Nationality:</b>	    Pakistani <br>
+        <b>CNIC:</b>		    42301-5005869-7 <br>
+        <b>Marital Status:</b>	Single <br>
+    </p>
+</body>
+</html>

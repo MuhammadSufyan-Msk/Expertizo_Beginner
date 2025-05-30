@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form Task</title>
+</head>
+<body>
+    <H1><center>Registration Form</center></H1>
+    <form>
+        <table align="Center" border="2px">
+            <tr>
+                <td>
+                    <label for="FirstName"><b><center>Enter Your First Name</center></b></label>
+                </td>
+                <td>
+                    <input type="text" name="FirstName" id="FirstName" size="20">
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="LastName"><b><center>Enter Your Last Name</center></b></label>
+                </td>
+                <td>
+                    <input type="text" name="LastName" id="LastName" size="20">
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Password"><b><Center>Enter Your Password</Center></b></label>
+                </td>
+                <td>
+                    <input type="Password" name="Password" id="Password" size="20" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="ReEnterPassword"><b><center>Re-Enter Your Password</center></b></label>
+                </td>
+                <td>
+                    <input type="Password" name="ReEnterPassword" id="ReEnterPassword" size="20" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Email"><b><center>Enter Your Email</center></b></label>
+                </td>
+                <td>
+                    <input type="Email" name="Email" id="Email" size="20" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Phone#"><b><center>Enter Your Mobile</center></b></label>
+                </td>
+                <td>
+                    <input type="Tel" name="Phone#" id="Phone#" size="20" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Address"><b><center>Enter Your Address</center></b></label>
+                </td>
+                <td>
+                    <textarea name="Address" id="Address" rows="4" cols="25" required></textarea>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Gender"><b><center>Select Your Gender</center></b></label>
+                </td>
+                <td>
+                    <input type="radio" name="Gender" id="Male" value="Male" required>
+                    <label for="Male">Male</label>
+                    <input type="radio" name="Gender" id="Female" value="Female" required>
+                    <label for="Female">Female</label>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Hobbies"><b><center>Select Your Hobbies</center></b></label>
+                </td>
+                <td>
+                    <input type="checkbox" name="Hobbies" id="Sports" value="Sports">
+                    <label for="Sports">Sports</label>
+                    <input type="checkbox" name="Hobbies" id="Reading" value="Reading">
+                    <label for="Reading">Reading</label>
+                    <input type="checkbox" name="Hobbies" id="Learning" value="Learning">
+                    <label for="Learning">Learning</label>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="DOB"><b><center>Date of Birth</center></b></label>
+                </td>
+                <td>
+                    <input type="Date" name="DOB" id="DOB" size="20" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Country"><b><center>Select Your Country</center></b></label>
+                </td>
+                <td>
+                    <select name="Country" id="Country">
+                        <option value="Choose Country">Choose Country</option>
+                        <option value="Pakistan">Pakistan</option>
+                        <option value="India">India</option>
+                        <option value="Germany">Germany</option>
+                        <option value="UK">UK</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Picture"><b><center>Upload Your Pic</center></b></label>
+                </td>
+                <td>
+                    <input type="file" name="Picture" id="Picture" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" align="Center">
+                    <input type="submit" name="Submit" id="Submit" value="Save My Data">
+                    <input type="reset" name="reset" id="reset" value="Reset Data">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
